@@ -2,7 +2,7 @@
 
 ---
 
-I'm a graphic design student who's learning how to code for fun! Currently I'm learning:
+I'm a graphic design student who's learning how to code! I'm currently learning:
 
 - 🤔 How to write better HTML  
 - ⭐️ CSS Grid, Flexbox, and responsive layouts  
