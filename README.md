@@ -10,6 +10,9 @@ I'm a [designer](https://burciaga.design/) learning how to code for fun! Current
   
 ## Featured Projects
 
-| [Alien Invasion](https://github.com/srciaga/alien-invasion) | [Learning Log](https://github.com/srciaga/learning-log) | [DIGM15 Portfolio](https://github.com/srciaga/digm15) |
-| :---:  | :---: | :---: |
-| [![Placeholder](https://i.imgur.com/dZ3taTm.png)](https://github.com/srciaga/alien-invasion) | [![Placeholder](https://i.imgur.com/q64LblB.png)](https://github.com/srciaga/learning-log) | [![Placeholder](https://i.imgur.com/BPImhmJ.png)](https://github.com/srciaga/digm15) |
+| [**Alien Invasion**](https://github.com/srciaga/alien-invasion) | [**Learning Log**](https://github.com/srciaga/learning-log) |
+| :---: | :--: |
+| [![Placeholder](https://i.imgur.com/dZ3taTm.png)](https://github.com/srciaga/alien-invasion) | [![Placeholder](https://i.imgur.com/q64LblB.png)](https://github.com/srciaga/learning-log) |
+| [**Frontend Mentor Challenges**](https://github.com/srciaga/frontend-mentor-challenges) | [**DIGM15 Portfolio**](https://github.com/srciaga/digm15) |
+| ![Placeholder](https://i.imgur.com/PKWdew4.png) | [![Placeholder](https://i.imgur.com/BPImhmJ.png)](https://github.com/srciaga/digm15) |
+
