@@ -1,12 +1,6 @@
-# Hey, I'm Steph! 👋
+# Hey, I'm [Steph](https://burciaga.design/)! 👽
   
 <img align="right" width="20%" alt="Gif of a wizard typing on a computer" src="https://i.imgur.com/vSmdBrC.gif"/>
-  
-I'm a [designer](https://burciaga.design/) learning how to code for fun! Currently learning:
-
-- :thinking: How to write better HTML  
-- :star: Making responsive layouts  
-- :technologist: Python & JavaScript
   
 ## Featured Projects
 
